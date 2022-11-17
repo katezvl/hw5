@@ -1,4 +1,4 @@
-from issue2 import decode
+from morse import decode
 import pytest
 
 

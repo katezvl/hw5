@@ -1,5 +1,5 @@
 from unittest.mock import patch
-from issue5 import what_is_year_now
+from what_is_year_now import what_is_year_now
 from io import StringIO
 
 

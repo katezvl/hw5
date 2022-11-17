@@ -1,5 +1,5 @@
 import unittest
-from issue3 import fit_transform
+from one_hot_encoder import fit_transform
 
 
 class TestIssue3(unittest.TestCase):

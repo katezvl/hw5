@@ -1,6 +1,6 @@
 import pytest
 
-from issue4 import fit_transform
+from one_hot_encoder import fit_transform
 
 
 def test_1():
