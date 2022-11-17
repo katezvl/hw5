@@ -1,0 +1,8 @@
+#python -m unittest
+#result:
+============================= test session starts ==============================
+collecting ... collected 3 items
+
+test_issue5.py::test_issue5_1 PASSED                                     [ 33%]
+test_issue5.py::test_issue5_2 PASSED                                     [ 66%]
+test_issue5.py::test_issue5_3 FAILED                                     [100%]

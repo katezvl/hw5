@@ -1,0 +1,11 @@
+#python -m pytest
+#result:
+============================= test session starts ==============================
+collecting ... collected 4 items
+
+test_issue4.py::test_1 PASSED                                            [ 25%]
+test_issue4.py::test_2 PASSED                                            [ 50%]
+test_issue4.py::test_3 PASSED                                            [ 75%]
+test_issue4.py::test_4 PASSED                                            [100%]
+
+============================== 4 passed in 0.02s ===============================

@@ -1,0 +1,2 @@
+#python -m doctest -o NORMALIZE_WHITESPACE -v test_issue1.py
+#result: Tests passed% 3 of 3 tests
